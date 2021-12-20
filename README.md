@@ -1,4 +1,4 @@
-# SPS-ARN-to-URL
+# AWS SPS ARN to URL converter
 Convert AWS SPS ARN to URL
 
 Simply run:
